@@ -41,9 +41,14 @@ aus-reg-bench/
 - [ ] Citation retrieval task generator
 - [ ] Expert-validated prudential reasoning items
 - [ ] AASB S2 disclosure evaluation items
-- [ ] Evaluation harness (Claude, GPT, Gemini adapters)
+- [x] Evaluation harness (Claude adapter)
+- [ ] Evaluation harness (GPT, Gemini adapters)
 - [ ] Statistical analysis notebooks
 - [ ] Working paper (target: SSRN preprint, mid-2026)
+
+### Recent activity
+
+- **v0.1.1** — harness skeleton, Anthropic adapter, 5-item citation_retrieval seed set, statistical pipeline stub (Jeffreys interval on exact-match rate).
 
 ## Use of AI in this research
 

@@ -1,0 +1,12 @@
+anthropic
+pandas
+numpy
+scipy
+python-Levenshtein
+tqdm
+jupyter
+matplotlib
+beautifulsoup4
+requests
+lxml
+pypdf
