@@ -1,0 +1,1930 @@
+{
+  "source": "https://asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/",
+  "started_at_utc": "2026-04-23T12:53:38+00:00",
+  "completed_at_utc": "2026-04-23T13:05:23+00:00",
+  "user_agent": "aus-reg-bench/0.1 (research benchmark; https://github.com/kylieannerichards/aus-reg-bench)",
+  "index_entry_count": 274,
+  "fetched_count": 274,
+  "error_count": 0,
+  "aborted_reason": null,
+  "fetched": [
+    {
+      "rg_number": "1",
+      "title": "RG 1 Applying for and varying an AFS licence",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-1-applying-for-and-varying-an-afs-licence/",
+      "sections": 1,
+      "bytes": 66446
+    },
+    {
+      "rg_number": "2",
+      "title": "RG 2 AFS Licensing Kit: Part 2 – Preparing your AFS licence or variation application (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-2-afs-licensing-kit-part-2-preparing-your-afs-licence-or-variation-application-withdrawn/",
+      "sections": 1,
+      "bytes": 66540
+    },
+    {
+      "rg_number": "3",
+      "title": "RG 3 AFS Licensing Kit: Part 3 – Preparing your additional proofs (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-3-afs-licensing-kit-part-3-preparing-your-additional-proofs-withdrawn/",
+      "sections": 1,
+      "bytes": 66370
+    },
+    {
+      "rg_number": "4",
+      "title": "RG 4 Intervention (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-4-intervention-withdrawn/",
+      "sections": 1,
+      "bytes": 65941
+    },
+    {
+      "rg_number": "5",
+      "title": "RG 5 Relevant interests and substantial holding notices",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-5-relevant-interests-and-substantial-holding-notices/",
+      "sections": 1,
+      "bytes": 67285
+    },
+    {
+      "rg_number": "6",
+      "title": "RG 6 Takeovers: Exceptions to the general prohibition",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-6-takeovers-exceptions-to-the-general-prohibition/",
+      "sections": 1,
+      "bytes": 66767
+    },
+    {
+      "rg_number": "7",
+      "title": "RG 7 Calculating time periods",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-7-calculating-time-periods/",
+      "sections": 1,
+      "bytes": 66286
+    },
+    {
+      "rg_number": "8",
+      "title": "RG 8 Administrative hearings: Principles and conduct",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-8-administrative-hearings-principles-and-conduct/",
+      "sections": 1,
+      "bytes": 66453
+    },
+    {
+      "rg_number": "9",
+      "title": "RG 9 Takeover bids",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-9-takeover-bids/",
+      "sections": 1,
+      "bytes": 67119
+    },
+    {
+      "rg_number": "10",
+      "title": "RG 10 Compulsory acquisitions and buyouts",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-10-compulsory-acquisitions-and-buyouts/",
+      "sections": 1,
+      "bytes": 67317
+    },
+    {
+      "rg_number": "11",
+      "title": "RG 11 Disclosure of offerors intentions in takeover documents (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-11-disclosure-of-offerors-intentions-in-takeover-documents-withdrawn/",
+      "sections": 1,
+      "bytes": 66207
+    },
+    {
+      "rg_number": "12",
+      "title": "RG 12 Valuation reports and profit forecasts (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-12-valuation-reports-and-profit-forecasts-withdrawn/",
+      "sections": 1,
+      "bytes": 66276
+    },
+    {
+      "rg_number": "13",
+      "title": "RG 13 ACN, ARBN and company names (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-13-acn-arbn-and-company-names-withdrawn/",
+      "sections": 1,
+      "bytes": 66077
+    },
+    {
+      "rg_number": "14",
+      "title": "RG 14 Receivers: Retention of company records (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-14-receivers-retention-of-company-records-withdrawn/",
+      "sections": 1,
+      "bytes": 65985
+    },
+    {
+      "rg_number": "15",
+      "title": "RG 15 Enforcement action: No undertakings (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-15-enforcement-action-no-undertakings-withdrawn/",
+      "sections": 1,
+      "bytes": 65839
+    },
+    {
+      "rg_number": "16",
+      "title": "RG 16 External administrators and controllers: Reporting of possible offences and misconduct",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-16-external-administrators-and-controllers-reporting-of-possible-offences-and-misconduct/",
+      "sections": 3,
+      "bytes": 68055
+    },
+    {
+      "rg_number": "17",
+      "title": "RG 17 Fees for subpoenas",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-17-fees-for-subpoenas/",
+      "sections": 1,
+      "bytes": 65906
+    },
+    {
+      "rg_number": "18",
+      "title": "RG 18 Serving legal documents on the ASC (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-18-serving-legal-documents-on-the-asc-withdrawn/",
+      "sections": 1,
+      "bytes": 66041
+    },
+    {
+      "rg_number": "19",
+      "title": "RG 19 Film investment schemes (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-19-film-investment-schemes-withdrawn/",
+      "sections": 1,
+      "bytes": 66168
+    },
+    {
+      "rg_number": "20",
+      "title": "RG 20 Disclosure of convictions and proceedings (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-20-disclosure-of-convictions-and-proceedings-withdrawn/",
+      "sections": 1,
+      "bytes": 65987
+    },
+    {
+      "rg_number": "21",
+      "title": "RG 21 How ASIC charges fees for relief applications (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-21-how-asic-charges-fees-for-relief-applications-withdrawn/",
+      "sections": 1,
+      "bytes": 66250
+    },
+    {
+      "rg_number": "22",
+      "title": "RG 22 Directors’ solvency declaration",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-22-directors-solvency-declaration/",
+      "sections": 1,
+      "bytes": 66388
+    },
+    {
+      "rg_number": "23",
+      "title": "RG 23 Updating and correcting prospectuses and application forms (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-23-updating-and-correcting-prospectuses-and-application-forms-withdrawn/",
+      "sections": 1,
+      "bytes": 66407
+    },
+    {
+      "rg_number": "24",
+      "title": "RG 24 Disclosure of directors’ interests: Unissued shares (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-24-disclosure-of-directors-interests-unissued-shares-withdrawn/",
+      "sections": 1,
+      "bytes": 65986
+    },
+    {
+      "rg_number": "25",
+      "title": "RG 25 Takeovers: False and misleading statements",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-25-takeovers-false-and-misleading-statements/",
+      "sections": 1,
+      "bytes": 67181
+    },
+    {
+      "rg_number": "26",
+      "title": "RG 26 Resignation, removal and replacement of auditors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-26-resignation-removal-and-replacement-of-auditors/",
+      "sections": 1,
+      "bytes": 67043
+    },
+    {
+      "rg_number": "27",
+      "title": "RG 27 Takeovers: Minimum acceptance conditions (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-27-takeovers-minimum-acceptance-conditions-withdrawn/",
+      "sections": 1,
+      "bytes": 66301
+    },
+    {
+      "rg_number": "28",
+      "title": "RG 28 Relief from dual lodgment of financial reports (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-28-relief-from-dual-lodgment-of-financial-reports-withdrawn/",
+      "sections": 1,
+      "bytes": 66012
+    },
+    {
+      "rg_number": "29",
+      "title": "RG 29 Financial reporting by Australian entities in dual listed company arrangements",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-29-financial-reporting-by-australian-entities-in-dual-listed-company-arrangements/",
+      "sections": 1,
+      "bytes": 66683
+    },
+    {
+      "rg_number": "30",
+      "title": "RG 30 Paperless issues and transfers under a global debenture",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-30-paperless-issues-and-transfers-under-a-global-debenture/",
+      "sections": 1,
+      "bytes": 66819
+    },
+    {
+      "rg_number": "31",
+      "title": "RG 31 Acquisitions and disposals by a broker acting as principal (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-31-acquisitions-and-disposals-by-a-broker-acting-as-principal-withdrawn/",
+      "sections": 1,
+      "bytes": 66448
+    },
+    {
+      "rg_number": "32",
+      "title": "RG 32 Trustee companies common funds (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-32-trustee-companies-common-funds-withdrawn/",
+      "sections": 1,
+      "bytes": 65855
+    },
+    {
+      "rg_number": "33",
+      "title": "RG 33 Security deposits (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-33-security-deposits-withdrawn/",
+      "sections": 1,
+      "bytes": 65738
+    },
+    {
+      "rg_number": "34",
+      "title": "RG 34 Auditor obligations: Reporting to ASIC",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-34-auditor-obligations-reporting-to-asic/",
+      "sections": 1,
+      "bytes": 67145
+    },
+    {
+      "rg_number": "35",
+      "title": "RG 35 Collateral benefits in takeovers (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-35-collateral-benefits-in-takeovers-withdrawn/",
+      "sections": 1,
+      "bytes": 66258
+    },
+    {
+      "rg_number": "36",
+      "title": "RG 36 Licensing: Financial product advice and dealing",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-36-licensing-financial-product-advice-and-dealing/",
+      "sections": 1,
+      "bytes": 66936
+    },
+    {
+      "rg_number": "37",
+      "title": "RG 37 Takeovers: Financing arrangements (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-37-takeovers-financing-arrangements-withdrawn/",
+      "sections": 1,
+      "bytes": 66245
+    },
+    {
+      "rg_number": "38",
+      "title": "RG 38 The hawking prohibition",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-38-the-hawking-prohibition/",
+      "sections": 1,
+      "bytes": 66566
+    },
+    {
+      "rg_number": "39",
+      "title": "RG 39 Licensed investment advisers: Security deposit (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-39-licensed-investment-advisers-security-deposit-withdrawn/",
+      "sections": 1,
+      "bytes": 65962
+    },
+    {
+      "rg_number": "40",
+      "title": "RG 40 Good transaction fee disclosure for bank, building society and credit union deposit and payments products (transaction accounts) (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-40-good-transaction-fee-disclosure-for-bank-building-society-and-credit-union-deposit-and-payments-products-transaction-accounts-withdrawn/",
+      "sections": 1,
+      "bytes": 66500
+    },
+    {
+      "rg_number": "41",
+      "title": "RG 41 Limited partnerships fundraising (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-41-limited-partnerships-fundraising-withdrawn/",
+      "sections": 1,
+      "bytes": 65809
+    },
+    {
+      "rg_number": "42",
+      "title": "RG 42 Independence of experts' reports (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-42-independence-of-experts-reports-withdrawn/",
+      "sections": 1,
+      "bytes": 65985
+    },
+    {
+      "rg_number": "43",
+      "title": "RG 43 Financial reports and audit relief",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-43-financial-reports-and-audit-relief/",
+      "sections": 1,
+      "bytes": 66699
+    },
+    {
+      "rg_number": "44",
+      "title": "RG 44 Annual general meeting: Extension of time",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-44-annual-general-meeting-extension-of-time/",
+      "sections": 1,
+      "bytes": 66809
+    },
+    {
+      "rg_number": "45",
+      "title": "RG 45 Mortgage schemes: Improving disclosure for retail investors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-45-mortgage-schemes-improving-disclosure-for-retail-investors/",
+      "sections": 1,
+      "bytes": 67062
+    },
+    {
+      "rg_number": "46",
+      "title": "RG 46 Unlisted property schemes: Improving disclosure for retail investors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-46-unlisted-property-schemes-improving-disclosure-for-retail-investors/",
+      "sections": 1,
+      "bytes": 66816
+    },
+    {
+      "rg_number": "47",
+      "title": "RG 47 Public comment (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-47-public-comment-withdrawn/",
+      "sections": 1,
+      "bytes": 65619
+    },
+    {
+      "rg_number": "48",
+      "title": "RG 48 Takeovers aspects of options over shares (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-48-takeovers-aspects-of-options-over-shares-withdrawn/",
+      "sections": 1,
+      "bytes": 66304
+    },
+    {
+      "rg_number": "49",
+      "title": "RG 49 Employee incentive schemes",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-49-employee-incentive-schemes/",
+      "sections": 1,
+      "bytes": 66528
+    },
+    {
+      "rg_number": "50",
+      "title": "RG 50 Omission of 'limited' from company names (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-50-omission-of-limited-from-company-names-withdrawn/",
+      "sections": 1,
+      "bytes": 65778
+    },
+    {
+      "rg_number": "51",
+      "title": "RG 51 Applications for relief",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-51-applications-for-relief/",
+      "sections": 1,
+      "bytes": 66585
+    },
+    {
+      "rg_number": "52",
+      "title": "RG 52  Enforcement action submissions (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-52-enforcement-action-submissions-withdrawn/",
+      "sections": 1,
+      "bytes": 66039
+    },
+    {
+      "rg_number": "53",
+      "title": "RG 53 The use of past performance in promotional material",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-53-the-use-of-past-performance-in-promotional-material/",
+      "sections": 1,
+      "bytes": 66260
+    },
+    {
+      "rg_number": "54",
+      "title": "RG 54 Principles for cross-border financial regulation",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-54-principles-for-cross-border-financial-regulation/",
+      "sections": 1,
+      "bytes": 66425
+    },
+    {
+      "rg_number": "55",
+      "title": "RG 55 Statements in disclosure documents and PDSs: Consent to quote",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-55-statements-in-disclosure-documents-and-pdss-consent-to-quote/",
+      "sections": 1,
+      "bytes": 67701
+    },
+    {
+      "rg_number": "56",
+      "title": "RG 56 Prospectuses (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-56-prospectuses-withdrawn/",
+      "sections": 1,
+      "bytes": 66095
+    },
+    {
+      "rg_number": "57",
+      "title": "RG 57 Notification of rights of review (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-57-notification-of-rights-of-review-withdrawn/",
+      "sections": 1,
+      "bytes": 65880
+    },
+    {
+      "rg_number": "58",
+      "title": "RG 58 Reporting by registered foreign companies and Australian companies with foreign shareholders",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-58-reporting-by-registered-foreign-companies-and-australian-companies-with-foreign-shareholders/",
+      "sections": 1,
+      "bytes": 67326
+    },
+    {
+      "rg_number": "59",
+      "title": "RG 59 Announcing and withdrawing takeover bids (s653 and s746)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-59-announcing-and-withdrawing-takeover-bids-s653-and-s746/",
+      "sections": 1,
+      "bytes": 66525
+    },
+    {
+      "rg_number": "60",
+      "title": "RG 60 Schemes of arrangement",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-60-schemes-of-arrangement/",
+      "sections": 1,
+      "bytes": 67096
+    },
+    {
+      "rg_number": "61",
+      "title": "RG 61 Underwriting: Application of exemptions (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-61-underwriting-application-of-exemptions-withdrawn/",
+      "sections": 1,
+      "bytes": 66292
+    },
+    {
+      "rg_number": "62",
+      "title": "RG 62 Better disclosure for investors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-62-better-disclosure-for-investors/",
+      "sections": 1,
+      "bytes": 66201
+    },
+    {
+      "rg_number": "63",
+      "title": "RG 63 Access to debenture and prescribed interest registers (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-63-access-to-debenture-and-prescribed-interest-registers-withdrawn/",
+      "sections": 1,
+      "bytes": 66041
+    },
+    {
+      "rg_number": "64",
+      "title": "RG 64 Failure to lodge documents (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-64-failure-to-lodge-documents-withdrawn/",
+      "sections": 2,
+      "bytes": 65954
+    },
+    {
+      "rg_number": "65",
+      "title": "RG 65 Section 1013DA disclosure guidelines (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-65-section-1013da-disclosure-guidelines-withdrawn/",
+      "sections": 1,
+      "bytes": 66438
+    },
+    {
+      "rg_number": "66",
+      "title": "RG 66 Transaction-specific disclosure for PDSs (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-66-transaction-specific-disclosure-for-pdss-withdrawn/",
+      "sections": 1,
+      "bytes": 66410
+    },
+    {
+      "rg_number": "67",
+      "title": "RG 67 Real estate companies",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-67-real-estate-companies/",
+      "sections": 1,
+      "bytes": 66636
+    },
+    {
+      "rg_number": "68",
+      "title": "RG 68 New financial reporting and procedural requirements (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-68-new-financial-reporting-and-procedural-requirements-withdrawn/",
+      "sections": 1,
+      "bytes": 66151
+    },
+    {
+      "rg_number": "69",
+      "title": "RG 69 Debentures and notes: Improving disclosure for retail investors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-69-debentures-and-notes-improving-disclosure-for-retail-investors/",
+      "sections": 1,
+      "bytes": 67138
+    },
+    {
+      "rg_number": "70",
+      "title": "RG 70 Prospectuses for cash box and investment companies",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-70-prospectuses-for-cash-box-and-investment-companies/",
+      "sections": 1,
+      "bytes": 66096
+    },
+    {
+      "rg_number": "71",
+      "title": "RG 71 Downstream acquisitions",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-71-downstream-acquisitions/",
+      "sections": 1,
+      "bytes": 66695
+    },
+    {
+      "rg_number": "72",
+      "title": "RG 72 Foreign securities: Disclosure relief",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-72-foreign-securities-disclosure-relief/",
+      "sections": 1,
+      "bytes": 66237
+    },
+    {
+      "rg_number": "73",
+      "title": "RG 73 Continuous disclosure obligations: Infringement notices",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-73-continuous-disclosure-obligations-infringement-notices/",
+      "sections": 1,
+      "bytes": 66357
+    },
+    {
+      "rg_number": "74",
+      "title": "RG 74 Acquisitions approved by members",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-74-acquisitions-approved-by-members/",
+      "sections": 1,
+      "bytes": 66837
+    },
+    {
+      "rg_number": "75",
+      "title": "RG 75 Independent expert reports to shareholders (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-75-independent-expert-reports-to-shareholders-withdrawn/",
+      "sections": 1,
+      "bytes": 66048
+    },
+    {
+      "rg_number": "76",
+      "title": "RG 76 Related party transactions",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-76-related-party-transactions/",
+      "sections": 1,
+      "bytes": 66514
+    },
+    {
+      "rg_number": "77",
+      "title": "RG 77 Property trusts and property syndicates (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-77-property-trusts-and-property-syndicates-withdrawn/",
+      "sections": 1,
+      "bytes": 65933
+    },
+    {
+      "rg_number": "78",
+      "title": "RG 78 Breach reporting by AFS licensees and credit licensees",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-78-breach-reporting-by-afs-licensees-and-credit-licensees/",
+      "sections": 2,
+      "bytes": 66559
+    },
+    {
+      "rg_number": "79",
+      "title": "RG 79 Research report providers: Improving the quality of investment research",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-79-research-report-providers-improving-the-quality-of-investment-research/",
+      "sections": 1,
+      "bytes": 66667
+    },
+    {
+      "rg_number": "80",
+      "title": "RG 80 Managed investment schemes: Interests not for money",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-80-managed-investment-schemes-interests-not-for-money/",
+      "sections": 1,
+      "bytes": 67049
+    },
+    {
+      "rg_number": "81",
+      "title": "RG 81 External administration: Early destruction of books",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-81-external-administration-early-destruction-of-books/",
+      "sections": 1,
+      "bytes": 66250
+    },
+    {
+      "rg_number": "82",
+      "title": "RG 82 External administration: Deeds of company arrangement involving a creditors’ trust",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-82-external-administration-deeds-of-company-arrangement-involving-a-creditors-trust/",
+      "sections": 1,
+      "bytes": 66928
+    },
+    {
+      "rg_number": "83",
+      "title": "RG 83 Reinstatement of companies",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-83-reinstatement-of-companies/",
+      "sections": 1,
+      "bytes": 66225
+    },
+    {
+      "rg_number": "84",
+      "title": "RG 84 Super switching advice: Questions and answers (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-84-super-switching-advice-questions-and-answers-withdrawn/",
+      "sections": 1,
+      "bytes": 66249
+    },
+    {
+      "rg_number": "85",
+      "title": "RG 85 Reporting requirements for non-reporting entities",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-85-reporting-requirements-for-non-reporting-entities/",
+      "sections": 1,
+      "bytes": 66708
+    },
+    {
+      "rg_number": "86",
+      "title": "RG 86 Tracing beneficial ownership",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-86-tracing-beneficial-ownership/",
+      "sections": 1,
+      "bytes": 67024
+    },
+    {
+      "rg_number": "87",
+      "title": "RG 87 Charitable schemes and school enrolment deposits",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-87-charitable-schemes-and-school-enrolment-deposits/",
+      "sections": 1,
+      "bytes": 67257
+    },
+    {
+      "rg_number": "88",
+      "title": "RG 88 Trustee and nominee companies (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-88-trustee-and-nominee-companies-withdrawn/",
+      "sections": 1,
+      "bytes": 66250
+    },
+    {
+      "rg_number": "90",
+      "title": "RG 90 Example Statement of Advice: Scaled advice for a new client",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-90-example-statement-of-advice-scaled-advice-for-a-new-client/",
+      "sections": 1,
+      "bytes": 66898
+    },
+    {
+      "rg_number": "91",
+      "title": "RG 91 Horse breeding schemes and horse racing syndicates",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-91-horse-breeding-schemes-and-horse-racing-syndicates/",
+      "sections": 1,
+      "bytes": 66692
+    },
+    {
+      "rg_number": "92",
+      "title": "RG 92 Procedural fairness to third parties (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-92-procedural-fairness-to-third-parties-withdrawn/",
+      "sections": 1,
+      "bytes": 65882
+    },
+    {
+      "rg_number": "93",
+      "title": "RG 93 Reimbursing liquidation costs (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-93-reimbursing-liquidation-costs-withdrawn/",
+      "sections": 1,
+      "bytes": 65801
+    },
+    {
+      "rg_number": "94",
+      "title": "RG 94 Unit pricing: Guide to good practice",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-94-unit-pricing-guide-to-good-practice/",
+      "sections": 1,
+      "bytes": 66362
+    },
+    {
+      "rg_number": "95",
+      "title": "RG 95 Disclosing entity provisions relief (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-95-disclosing-entity-provisions-relief-withdrawn/",
+      "sections": 1,
+      "bytes": 65851
+    },
+    {
+      "rg_number": "96",
+      "title": "RG 96 Debt collection guideline: For collectors and creditors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-96-debt-collection-guideline-for-collectors-and-creditors/",
+      "sections": 2,
+      "bytes": 66827
+    },
+    {
+      "rg_number": "97",
+      "title": "RG 97 Disclosing fees and costs in PDSs and periodic statements",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-97-disclosing-fees-and-costs-in-pdss-and-periodic-statements/",
+      "sections": 4,
+      "bytes": 75579
+    },
+    {
+      "rg_number": "98",
+      "title": "RG 98 ASIC’s powers to suspend, cancel and vary AFS licences and make banning orders",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-98-asic-s-powers-to-suspend-cancel-and-vary-afs-licences-and-make-banning-orders/",
+      "sections": 1,
+      "bytes": 66900
+    },
+    {
+      "rg_number": "99",
+      "title": "RG 99 Quotation of securities offered by prospectus (s1031) (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-99-quotation-of-securities-offered-by-prospectus-s1031-withdrawn/",
+      "sections": 1,
+      "bytes": 66331
+    },
+    {
+      "rg_number": "100",
+      "title": "RG 100 Court enforceable undertakings",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-100-court-enforceable-undertakings/",
+      "sections": 1,
+      "bytes": 67560
+    },
+    {
+      "rg_number": "101",
+      "title": "RG 101 Managed investment scheme buy-backs",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-101-managed-investment-scheme-buy-backs/",
+      "sections": 1,
+      "bytes": 67053
+    },
+    {
+      "rg_number": "102",
+      "title": "RG 102 Tender offers by vendor shareholders",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-102-tender-offers-by-vendor-shareholders/",
+      "sections": 1,
+      "bytes": 66633
+    },
+    {
+      "rg_number": "103",
+      "title": "RG 103 Confidentiality and release of information",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-103-confidentiality-and-release-of-information/",
+      "sections": 1,
+      "bytes": 66217
+    },
+    {
+      "rg_number": "104",
+      "title": "RG 104 AFS licensing: Meeting the general obligations",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-104-afs-licensing-meeting-the-general-obligations/",
+      "sections": 1,
+      "bytes": 66333
+    },
+    {
+      "rg_number": "105",
+      "title": "RG 105 AFS licensing: Organisational competence",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-105-afs-licensing-organisational-competence/",
+      "sections": 1,
+      "bytes": 66285
+    },
+    {
+      "rg_number": "106",
+      "title": "RG 106 Controller duties and bank accounts (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-106-controller-duties-and-bank-accounts-withdrawn/",
+      "sections": 1,
+      "bytes": 65840
+    },
+    {
+      "rg_number": "107",
+      "title": "RG 107 Fundraising: Facilitating electronic offers of securities",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-107-fundraising-facilitating-electronic-offers-of-securities/",
+      "sections": 1,
+      "bytes": 67636
+    },
+    {
+      "rg_number": "108",
+      "title": "RG 108 No-action letters",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-108-no-action-letters/",
+      "sections": 1,
+      "bytes": 66265
+    },
+    {
+      "rg_number": "110",
+      "title": "RG 110 Share buy-backs",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-110-share-buy-backs/",
+      "sections": 1,
+      "bytes": 66728
+    },
+    {
+      "rg_number": "111",
+      "title": "RG 111 Content of expert reports",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-111-content-of-expert-reports/",
+      "sections": 1,
+      "bytes": 66016
+    },
+    {
+      "rg_number": "112",
+      "title": "RG 112 Independence of experts",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-112-independence-of-experts/",
+      "sections": 1,
+      "bytes": 66792
+    },
+    {
+      "rg_number": "115",
+      "title": "RG 115 Audit relief for proprietary companies",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-115-audit-relief-for-proprietary-companies/",
+      "sections": 1,
+      "bytes": 66919
+    },
+    {
+      "rg_number": "116",
+      "title": "RG 116 Commentary on compliance plans: Agricultural industry schemes (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-116-commentary-on-compliance-plans-agricultural-industry-schemes-withdrawn/",
+      "sections": 1,
+      "bytes": 66293
+    },
+    {
+      "rg_number": "117",
+      "title": "RG 117 Commentary on compliance plans: Financial asset schemes (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-117-commentary-on-compliance-plans-financial-asset-schemes-withdrawn/",
+      "sections": 1,
+      "bytes": 66245
+    },
+    {
+      "rg_number": "118",
+      "title": "RG 118 Commentary on compliance plans: Contributory mortgage schemes (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-118-commentary-on-compliance-plans-contributory-mortgage-schemes-withdrawn/",
+      "sections": 1,
+      "bytes": 66293
+    },
+    {
+      "rg_number": "119",
+      "title": "RG 119 Commentary on compliance plans: Pooled mortgage schemes (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-119-commentary-on-compliance-plans-pooled-mortgage-schemes-withdrawn/",
+      "sections": 1,
+      "bytes": 66245
+    },
+    {
+      "rg_number": "120",
+      "title": "RG 120 Commentary on compliance plans: Property schemes (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-120-commentary-on-compliance-plans-property-schemes-withdrawn/",
+      "sections": 1,
+      "bytes": 66189
+    },
+    {
+      "rg_number": "121",
+      "title": "RG 121 Doing financial services business in Australia",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-121-doing-financial-services-business-in-australia/",
+      "sections": 1,
+      "bytes": 66614
+    },
+    {
+      "rg_number": "125",
+      "title": "RG 125 Share and interest purchase plans",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-125-share-and-interest-purchase-plans/",
+      "sections": 1,
+      "bytes": 66571
+    },
+    {
+      "rg_number": "126",
+      "title": "RG 126 Compensation and insurance arrangements for AFS licensees",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-126-compensation-and-insurance-arrangements-for-afs-licensees/",
+      "sections": 1,
+      "bytes": 66480
+    },
+    {
+      "rg_number": "127",
+      "title": "RG 127 Additional investments in managed investment schemes (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-127-additional-investments-in-managed-investment-schemes-withdrawn/",
+      "sections": 1,
+      "bytes": 66907
+    },
+    {
+      "rg_number": "128",
+      "title": "RG 128 Collective action by investors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-128-collective-action-by-investors/",
+      "sections": 1,
+      "bytes": 66426
+    },
+    {
+      "rg_number": "129",
+      "title": "RG 129 Business introduction or matching services (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-129-business-introduction-or-matching-services-withdrawn/",
+      "sections": 1,
+      "bytes": 65796
+    },
+    {
+      "rg_number": "130",
+      "title": "RG 130 Managed investments: Licensing (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-130-managed-investments-licensing-withdrawn/",
+      "sections": 1,
+      "bytes": 65831
+    },
+    {
+      "rg_number": "131",
+      "title": "RG 131 Funds management: Establishing and registering a fund",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-131-funds-management-establishing-and-registering-a-fund/",
+      "sections": 1,
+      "bytes": 66923
+    },
+    {
+      "rg_number": "132",
+      "title": "RG 132 Funds management: Compliance and oversight",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-132-funds-management-compliance-and-oversight/",
+      "sections": 1,
+      "bytes": 67241
+    },
+    {
+      "rg_number": "133",
+      "title": "RG 133 Funds management and custodial services: Holding assets",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-133-funds-management-and-custodial-services-holding-assets/",
+      "sections": 1,
+      "bytes": 66947
+    },
+    {
+      "rg_number": "134",
+      "title": "RG 134 Funds management: Constitutions",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-134-funds-management-constitutions/",
+      "sections": 1,
+      "bytes": 66553
+    },
+    {
+      "rg_number": "135",
+      "title": "RG 135 Managed investments: Transitional issues (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-135-managed-investments-transitional-issues-withdrawn/",
+      "sections": 1,
+      "bytes": 65909
+    },
+    {
+      "rg_number": "136",
+      "title": "RG 136 Funds management: Discretionary powers",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-136-funds-management-discretionary-powers/",
+      "sections": 1,
+      "bytes": 67252
+    },
+    {
+      "rg_number": "137",
+      "title": "RG 137 Constitution requirements for schemes registered before 1 October 2013",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-137-constitution-requirements-for-schemes-registered-before-1-october-2013/",
+      "sections": 1,
+      "bytes": 67313
+    },
+    {
+      "rg_number": "138",
+      "title": "RG 138 Foreign passport funds",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-138-foreign-passport-funds/",
+      "sections": 1,
+      "bytes": 67111
+    },
+    {
+      "rg_number": "139",
+      "title": "RG 139 Approval and oversight of external dispute resolution schemes (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-139-approval-and-oversight-of-external-dispute-resolution-schemes-withdrawn/",
+      "sections": 1,
+      "bytes": 66864
+    },
+    {
+      "rg_number": "140",
+      "title": "RG 140 Strata schemes and management rights schemes",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-140-strata-schemes-and-management-rights-schemes/",
+      "sections": 1,
+      "bytes": 67333
+    },
+    {
+      "rg_number": "141",
+      "title": "RG 141 Offers of securities on the internet",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-141-offers-of-securities-on-the-internet/",
+      "sections": 1,
+      "bytes": 66149
+    },
+    {
+      "rg_number": "142",
+      "title": "RG 142 Schemes of arrangement and ASIC review (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-142-schemes-of-arrangement-and-asic-review-withdrawn/",
+      "sections": 1,
+      "bytes": 65849
+    },
+    {
+      "rg_number": "143",
+      "title": "RG 143 Takeovers provisions: Warrants (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-143-takeovers-provisions-warrants-withdrawn/",
+      "sections": 1,
+      "bytes": 66230
+    },
+    {
+      "rg_number": "144",
+      "title": "RG 144 Mortgage investment schemes",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-144-mortgage-investment-schemes/",
+      "sections": 1,
+      "bytes": 66322
+    },
+    {
+      "rg_number": "145",
+      "title": "RG 145 Collateral benefits: Takeovers funding and pre-bid purchases (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-145-collateral-benefits-takeovers-funding-and-pre-bid-purchases-withdrawn/",
+      "sections": 1,
+      "bytes": 66470
+    },
+    {
+      "rg_number": "146",
+      "title": "RG 146 Licensing: Training of financial product advisers",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-146-licensing-training-of-financial-product-advisers/",
+      "sections": 1,
+      "bytes": 70417
+    },
+    {
+      "rg_number": "147",
+      "title": "RG 147 Mutuality: Financial institutions (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-147-mutuality-financial-institutions-withdrawn/",
+      "sections": 1,
+      "bytes": 65837
+    },
+    {
+      "rg_number": "148",
+      "title": "RG 148 Platforms that are managed investment schemes and nominee and custody services",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-148-platforms-that-are-managed-investment-schemes-and-nominee-and-custody-services/",
+      "sections": 1,
+      "bytes": 66860
+    },
+    {
+      "rg_number": "149",
+      "title": "RG 149 Nominee and custody services (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-149-nominee-and-custody-services-withdrawn/",
+      "sections": 1,
+      "bytes": 66251
+    },
+    {
+      "rg_number": "150",
+      "title": "RG 150 Electronic applications and dealer personalised applications (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-150-electronic-applications-and-dealer-personalised-applications-withdrawn/",
+      "sections": 1,
+      "bytes": 66345
+    },
+    {
+      "rg_number": "151",
+      "title": "RG 151 Fundraising: Discretionary powers (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-151-fundraising-discretionary-powers-withdrawn/",
+      "sections": 1,
+      "bytes": 65821
+    },
+    {
+      "rg_number": "152",
+      "title": "RG 152 Lodgment of disclosure documents (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-152-lodgment-of-disclosure-documents-withdrawn/",
+      "sections": 1,
+      "bytes": 66164
+    },
+    {
+      "rg_number": "154",
+      "title": "RG 154 Certificate by a qualified accountant (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-154-certificate-by-a-qualified-accountant-withdrawn/",
+      "sections": 1,
+      "bytes": 66268
+    },
+    {
+      "rg_number": "155",
+      "title": "RG 155 Debenture prospectuses (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-155-debenture-prospectuses-withdrawn/",
+      "sections": 1,
+      "bytes": 66034
+    },
+    {
+      "rg_number": "156",
+      "title": "RG 156 Advertising of debentures and notes to retail investors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-156-advertising-of-debentures-and-notes-to-retail-investors/",
+      "sections": 1,
+      "bytes": 66960
+    },
+    {
+      "rg_number": "157",
+      "title": "RG 157 Financial reports for offer information statements (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-157-financial-reports-for-offer-information-statements-withdrawn/",
+      "sections": 1,
+      "bytes": 66254
+    },
+    {
+      "rg_number": "158",
+      "title": "RG 158 Advertising and publicity for offers of securities (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-158-advertising-and-publicity-for-offers-of-securities-withdrawn/",
+      "sections": 1,
+      "bytes": 66274
+    },
+    {
+      "rg_number": "159",
+      "title": "RG 159 Takeovers, compulsory acquisitions and substantial holdings (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-159-takeovers-compulsory-acquisitions-and-substantial-holdings-withdrawn/",
+      "sections": 1,
+      "bytes": 66462
+    },
+    {
+      "rg_number": "160",
+      "title": "RG 160 Time-sharing schemes",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-160-time-sharing-schemes/",
+      "sections": 1,
+      "bytes": 66471
+    },
+    {
+      "rg_number": "161",
+      "title": "RG 161 Share and interest sale facilities",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-161-share-and-interest-sale-facilities/",
+      "sections": 1,
+      "bytes": 67222
+    },
+    {
+      "rg_number": "162",
+      "title": "RG 162 Internet discussion sites",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-162-internet-discussion-sites/",
+      "sections": 1,
+      "bytes": 66382
+    },
+    {
+      "rg_number": "163",
+      "title": "RG 163 Takeovers: Minimum bid price principle (s621) (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-163-takeovers-minimum-bid-price-principle-s621-withdrawn/",
+      "sections": 1,
+      "bytes": 66223
+    },
+    {
+      "rg_number": "164",
+      "title": "RG 164 Licensing: Organisational capacities (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-164-licensing-organisational-capacities-withdrawn/",
+      "sections": 1,
+      "bytes": 66081
+    },
+    {
+      "rg_number": "165",
+      "title": "RG 165 Licensing: Internal and external dispute resolution (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-165-licensing-internal-and-external-dispute-resolution-withdrawn/",
+      "sections": 1,
+      "bytes": 66237
+    },
+    {
+      "rg_number": "166",
+      "title": "RG 166 AFS licensing: Financial requirements",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-166-afs-licensing-financial-requirements/",
+      "sections": 1,
+      "bytes": 66912
+    },
+    {
+      "rg_number": "167",
+      "title": "RG 167 AFS licensing: Discretionary powers",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-167-afs-licensing-discretionary-powers/",
+      "sections": 1,
+      "bytes": 67689
+    },
+    {
+      "rg_number": "168",
+      "title": "RG 168 Product Disclosure Statements: Disclosure and other obligations",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-168-product-disclosure-statements-disclosure-and-other-obligations/",
+      "sections": 1,
+      "bytes": 66864
+    },
+    {
+      "rg_number": "169",
+      "title": "RG 169 Hawking and disclosure: Discretionary powers",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-169-hawking-and-disclosure-discretionary-powers/",
+      "sections": 1,
+      "bytes": 66696
+    },
+    {
+      "rg_number": "170",
+      "title": "RG 170 Prospective financial information",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-170-prospective-financial-information/",
+      "sections": 1,
+      "bytes": 66224
+    },
+    {
+      "rg_number": "171",
+      "title": "RG 171 Anomalies and issues in the takeover provisions (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-171-anomalies-and-issues-in-the-takeover-provisions-withdrawn/",
+      "sections": 1,
+      "bytes": 66369
+    },
+    {
+      "rg_number": "172",
+      "title": "RG 172 Financial markets: Domestic and overseas operators",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-172-financial-markets-domestic-and-overseas-operators/",
+      "sections": 1,
+      "bytes": 66735
+    },
+    {
+      "rg_number": "173",
+      "title": "RG 173 Disclosure for on-sale of securities and other financial products",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-173-disclosure-for-on-sale-of-securities-and-other-financial-products/",
+      "sections": 1,
+      "bytes": 66769
+    },
+    {
+      "rg_number": "174",
+      "title": "RG 174 Relief for externally administered companies and registered schemes being wound up",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-174-relief-for-externally-administered-companies-and-registered-schemes-being-wound-up/",
+      "sections": 1,
+      "bytes": 66994
+    },
+    {
+      "rg_number": "175",
+      "title": "RG 175 AFS licensing: Financial product advisers—Conduct and disclosure",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-175-afs-licensing-financial-product-advisers-conduct-and-disclosure/",
+      "sections": 1,
+      "bytes": 66597
+    },
+    {
+      "rg_number": "176",
+      "title": "RG 176 Foreign financial services providers",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-176-foreign-financial-services-providers/",
+      "sections": 1,
+      "bytes": 67113
+    },
+    {
+      "rg_number": "177",
+      "title": "RG 177 Australian market licences: Overseas operators (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-177-australian-market-licences-overseas-operators-withdrawn/",
+      "sections": 1,
+      "bytes": 66187
+    },
+    {
+      "rg_number": "178",
+      "title": "RG 178 Foreign collective investment schemes",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-178-foreign-collective-investment-schemes/",
+      "sections": 1,
+      "bytes": 66634
+    },
+    {
+      "rg_number": "179",
+      "title": "RG 179 Managed discretionary accounts",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-179-managed-discretionary-accounts/",
+      "sections": 1,
+      "bytes": 66883
+    },
+    {
+      "rg_number": "180",
+      "title": "RG 180 Auditor registration",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-180-auditor-registration/",
+      "sections": 8,
+      "bytes": 68815
+    },
+    {
+      "rg_number": "181",
+      "title": "RG 181 AFS licensing: Managing conflicts of interest",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-181-afs-licensing-managing-conflicts-of-interest/",
+      "sections": 1,
+      "bytes": 66455
+    },
+    {
+      "rg_number": "182",
+      "title": "RG 182 Dollar disclosure",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-182-dollar-disclosure/",
+      "sections": 1,
+      "bytes": 67228
+    },
+    {
+      "rg_number": "183",
+      "title": "RG 183 Codes of conduct for the financial services and credit sectors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-183-codes-of-conduct-for-the-financial-services-and-credit-sectors/",
+      "sections": 1,
+      "bytes": 66929
+    },
+    {
+      "rg_number": "184",
+      "title": "RG 184 Superannuation: Delivery of product disclosure for investment strategies",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-184-superannuation-delivery-of-product-disclosure-for-investment-strategies/",
+      "sections": 1,
+      "bytes": 66742
+    },
+    {
+      "rg_number": "185",
+      "title": "RG 185 Non-cash payment facilities",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-185-non-cash-payment-facilities/",
+      "sections": 1,
+      "bytes": 66984
+    },
+    {
+      "rg_number": "186",
+      "title": "RG 186 External administration: Liquidator registration (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-186-external-administration-liquidator-registration-withdrawn/",
+      "sections": 1,
+      "bytes": 66556
+    },
+    {
+      "rg_number": "187",
+      "title": "RG 187 Auditor rotation",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-187-auditor-rotation/",
+      "sections": 1,
+      "bytes": 66170
+    },
+    {
+      "rg_number": "188",
+      "title": "RG 188 Disclosure in reconstructions",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-188-disclosure-in-reconstructions/",
+      "sections": 1,
+      "bytes": 67045
+    },
+    {
+      "rg_number": "189",
+      "title": "RG 189 Disclosure relief for rights issues",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-189-disclosure-relief-for-rights-issues/",
+      "sections": 1,
+      "bytes": 67265
+    },
+    {
+      "rg_number": "190",
+      "title": "RG 190 Offering financial products in New Zealand and Australia under mutual recognition",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-190-offering-financial-products-in-new-zealand-and-australia-under-mutual-recognition/",
+      "sections": 1,
+      "bytes": 67099
+    },
+    {
+      "rg_number": "191",
+      "title": "RG 191 Superannuation: helping investors look at longer-term returns - ASIC's best practice guide (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-191-superannuation-helping-investors-look-at-longer-term-returns-asic-s-best-practice-guide-withdrawn/",
+      "sections": 1,
+      "bytes": 66072
+    },
+    {
+      "rg_number": "192",
+      "title": "RG 192 Licensing: Wholesale equity schemes",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-192-licensing-wholesale-equity-schemes/",
+      "sections": 1,
+      "bytes": 66799
+    },
+    {
+      "rg_number": "193",
+      "title": "RG 193 Notification of directors’ interests in securities: Listed companies",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-193-notification-of-directors-interests-in-securities-listed-companies/",
+      "sections": 1,
+      "bytes": 66419
+    },
+    {
+      "rg_number": "194",
+      "title": "RG 194 Insurance requirements for registered liquidators (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-194-insurance-requirements-for-registered-liquidators-withdrawn/",
+      "sections": 1,
+      "bytes": 66626
+    },
+    {
+      "rg_number": "195",
+      "title": "RG 195 Group purchasing bodies for insurance and risk products",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-195-group-purchasing-bodies-for-insurance-and-risk-products/",
+      "sections": 1,
+      "bytes": 67220
+    },
+    {
+      "rg_number": "196",
+      "title": "RG 196 Short selling",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-196-short-selling/",
+      "sections": 1,
+      "bytes": 66175
+    },
+    {
+      "rg_number": "197",
+      "title": "RG 197 Warrants: Out-of-use notices (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-197-warrants-out-of-use-notices-withdrawn/",
+      "sections": 1,
+      "bytes": 66304
+    },
+    {
+      "rg_number": "198",
+      "title": "RG 198 Unlisted disclosing entities: Continuous disclosure obligations",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-198-unlisted-disclosing-entities-continuous-disclosure-obligations/",
+      "sections": 1,
+      "bytes": 66336
+    },
+    {
+      "rg_number": "199",
+      "title": "RG 199 Broadening the rights issue and dividend reinvestment plan exceptions for takeovers (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-199-broadening-the-rights-issue-and-dividend-reinvestment-plan-exceptions-for-takeovers-withdrawn/",
+      "sections": 1,
+      "bytes": 66657
+    },
+    {
+      "rg_number": "200",
+      "title": "RG 200 Advice to super fund members (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-200-advice-to-super-fund-members-withdrawn/",
+      "sections": 1,
+      "bytes": 66046
+    },
+    {
+      "rg_number": "201",
+      "title": "RG 201 Unsolicited credit cards and debit cards",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-201-unsolicited-credit-cards-and-debit-cards/",
+      "sections": 1,
+      "bytes": 66718
+    },
+    {
+      "rg_number": "202",
+      "title": "RG 202 Credit registration and transition (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-202-credit-registration-and-transition-withdrawn/",
+      "sections": 1,
+      "bytes": 66180
+    },
+    {
+      "rg_number": "203",
+      "title": "RG 203 Do I need a credit licence?",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-203-do-i-need-a-credit-licence/",
+      "sections": 1,
+      "bytes": 66781
+    },
+    {
+      "rg_number": "204",
+      "title": "RG 204 Applying for and varying a credit licence",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-204-applying-for-and-varying-a-credit-licence/",
+      "sections": 1,
+      "bytes": 66565
+    },
+    {
+      "rg_number": "205",
+      "title": "RG 205 Credit licensing: General conduct obligations",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-205-credit-licensing-general-conduct-obligations/",
+      "sections": 3,
+      "bytes": 66823
+    },
+    {
+      "rg_number": "206",
+      "title": "RG 206 Credit licensing: Competence and training",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-206-credit-licensing-competence-and-training/",
+      "sections": 1,
+      "bytes": 66794
+    },
+    {
+      "rg_number": "207",
+      "title": "RG 207 Credit licensing: Financial requirements",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-207-credit-licensing-financial-requirements/",
+      "sections": 1,
+      "bytes": 67085
+    },
+    {
+      "rg_number": "208",
+      "title": "RG 208 How ASIC charges fees for credit relief applications (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-208-how-asic-charges-fees-for-credit-relief-applications-withdrawn/",
+      "sections": 1,
+      "bytes": 66093
+    },
+    {
+      "rg_number": "209",
+      "title": "RG 209 Credit licensing: Responsible lending conduct",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-209-credit-licensing-responsible-lending-conduct/",
+      "sections": 2,
+      "bytes": 67050
+    },
+    {
+      "rg_number": "210",
+      "title": "RG 210 Compensation and insurance arrangements for credit licensees",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-210-compensation-and-insurance-arrangements-for-credit-licensees/",
+      "sections": 1,
+      "bytes": 67180
+    },
+    {
+      "rg_number": "211",
+      "title": "RG 211 Clearing and settlement facilities: Australian and overseas operators",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-211-clearing-and-settlement-facilities-australian-and-overseas-operators/",
+      "sections": 1,
+      "bytes": 68049
+    },
+    {
+      "rg_number": "212",
+      "title": "RG 212 Client money relating to dealing in OTC derivatives",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-212-client-money-relating-to-dealing-in-otc-derivatives/",
+      "sections": 1,
+      "bytes": 66644
+    },
+    {
+      "rg_number": "213",
+      "title": "RG 213 Facilitating debt raising (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-213-facilitating-debt-raising-withdrawn/",
+      "sections": 1,
+      "bytes": 66053
+    },
+    {
+      "rg_number": "214",
+      "title": "RG 214 Guidance on ASIC market integrity rules for ASX and ASX 24 markets (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-214-guidance-on-asic-market-integrity-rules-for-asx-and-asx-24-markets-withdrawn/",
+      "sections": 1,
+      "bytes": 66536
+    },
+    {
+      "rg_number": "215",
+      "title": "RG 215 Guidance on ASIC market integrity rules for IMB, NSXA and SIM VSE markets (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-215-guidance-on-asic-market-integrity-rules-for-imb-nsxa-and-sim-vse-markets-withdrawn/",
+      "sections": 1,
+      "bytes": 66313
+    },
+    {
+      "rg_number": "216",
+      "title": "RG 216 Markets Disciplinary Panel",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-216-markets-disciplinary-panel/",
+      "sections": 1,
+      "bytes": 66214
+    },
+    {
+      "rg_number": "217",
+      "title": "RG 217 Duty to prevent insolvent trading: Guide for directors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-217-duty-to-prevent-insolvent-trading-guide-for-directors/",
+      "sections": 1,
+      "bytes": 67128
+    },
+    {
+      "rg_number": "218",
+      "title": "RG 218 Licensing: Administrative action against persons engaging in credit activities",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-218-licensing-administrative-action-against-persons-engaging-in-credit-activities/",
+      "sections": 1,
+      "bytes": 66761
+    },
+    {
+      "rg_number": "219",
+      "title": "RG 219 Non-standard margin lending facilities: Disclosure to investors (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-219-non-standard-margin-lending-facilities-disclosure-to-investors-withdrawn/",
+      "sections": 1,
+      "bytes": 66654
+    },
+    {
+      "rg_number": "220",
+      "title": "RG 220 Early termination fees for residential loans: Unconscionable fees and unfair contract terms",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-220-early-termination-fees-for-residential-loans-unconscionable-fees-and-unfair-contract-terms/",
+      "sections": 1,
+      "bytes": 67523
+    },
+    {
+      "rg_number": "221",
+      "title": "RG 221 Facilitating digital financial services disclosures",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-221-facilitating-digital-financial-services-disclosures/",
+      "sections": 1,
+      "bytes": 66559
+    },
+    {
+      "rg_number": "222",
+      "title": "RG 222 Substantial holding disclosure: Securities lending and prime broking",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-222-substantial-holding-disclosure-securities-lending-and-prime-broking/",
+      "sections": 1,
+      "bytes": 67293
+    },
+    {
+      "rg_number": "223",
+      "title": "RG 223 Guidance on ASIC market integrity rules for competition in exchange markets (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-223-guidance-on-asic-market-integrity-rules-for-competition-in-exchange-markets-withdrawn/",
+      "sections": 1,
+      "bytes": 66785
+    },
+    {
+      "rg_number": "224",
+      "title": "RG 224 Guidance on ASIC market integrity rules for Chi-X and APX markets (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-224-guidance-on-asic-market-integrity-rules-for-chi-x-and-apx-markets-withdrawn/",
+      "sections": 1,
+      "bytes": 66393
+    },
+    {
+      "rg_number": "225",
+      "title": "RG 225 Markets Disciplinary Panel practices and procedures (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-225-markets-disciplinary-panel-practices-and-procedures-withdrawn/",
+      "sections": 1,
+      "bytes": 66162
+    },
+    {
+      "rg_number": "226",
+      "title": "RG 226 Guidance on ASIC market integrity rules for capital and related requirements: ASX, ASX 24, Chi X and APX markets (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-226-guidance-on-asic-market-integrity-rules-for-capital-and-related-requirements-asx-asx-24-chi-x-and-apx-markets-withdrawn/",
+      "sections": 1,
+      "bytes": 66975
+    },
+    {
+      "rg_number": "227",
+      "title": "RG 227 Over-the-counter contracts for difference: Improving disclosure for retail investors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-227-over-the-counter-contracts-for-difference-improving-disclosure-for-retail-investors/",
+      "sections": 1,
+      "bytes": 66897
+    },
+    {
+      "rg_number": "228",
+      "title": "RG 228 Prospectuses: Effective disclosure for retail investors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-228-prospectuses-effective-disclosure-for-retail-investors/",
+      "sections": 1,
+      "bytes": 66415
+    },
+    {
+      "rg_number": "229",
+      "title": "RG 229 Superannuation forecasts (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-229-superannuation-forecasts-withdrawn/",
+      "sections": 1,
+      "bytes": 66005
+    },
+    {
+      "rg_number": "230",
+      "title": "RG 230 Disclosing non-IFRS financial information",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-230-disclosing-non-ifrs-financial-information/",
+      "sections": 1,
+      "bytes": 66658
+    },
+    {
+      "rg_number": "231",
+      "title": "RG 231 Infrastructure entities: Improving disclosure for retail investors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-231-infrastructure-entities-improving-disclosure-for-retail-investors/",
+      "sections": 1,
+      "bytes": 66676
+    },
+    {
+      "rg_number": "232",
+      "title": "RG 232 Agribusiness managed investment schemes: Improving disclosure for retail investors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-232-agribusiness-managed-investment-schemes-improving-disclosure-for-retail-investors/",
+      "sections": 1,
+      "bytes": 66976
+    },
+    {
+      "rg_number": "233",
+      "title": "RG 233 Indirect self-acquisition: Relief for investment funds",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-233-indirect-self-acquisition-relief-for-investment-funds/",
+      "sections": 2,
+      "bytes": 67021
+    },
+    {
+      "rg_number": "234",
+      "title": "RG 234 Advertising financial products and services (including credit): Good practice guidance",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-234-advertising-financial-products-and-services-including-credit-good-practice-guidance/",
+      "sections": 1,
+      "bytes": 67140
+    },
+    {
+      "rg_number": "235",
+      "title": "RG 235 Registering your business name",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-235-registering-your-business-name/",
+      "sections": 1,
+      "bytes": 66218
+    },
+    {
+      "rg_number": "236",
+      "title": "RG 236 Do I need an AFS licence to participate in carbon markets?",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-236-do-i-need-an-afs-licence-to-participate-in-carbon-markets/",
+      "sections": 1,
+      "bytes": 67384
+    },
+    {
+      "rg_number": "237",
+      "title": "RG 237 Trustee companies: Transfer determinations by ASIC",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-237-trustee-companies-transfer-determinations-by-asic/",
+      "sections": 1,
+      "bytes": 67073
+    },
+    {
+      "rg_number": "238",
+      "title": "RG 238 Suspicious activity reporting (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-238-suspicious-activity-reporting-withdrawn/",
+      "sections": 1,
+      "bytes": 66272
+    },
+    {
+      "rg_number": "239",
+      "title": "RG 239 Retail OTC derivative issuers: Financial requirements (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-239-retail-otc-derivative-issuers-financial-requirements-withdrawn/",
+      "sections": 1,
+      "bytes": 66245
+    },
+    {
+      "rg_number": "240",
+      "title": "RG 240 Hedge funds: Improving disclosure",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-240-hedge-funds-improving-disclosure/",
+      "sections": 1,
+      "bytes": 66796
+    },
+    {
+      "rg_number": "241",
+      "title": "RG 241 Electronic trading",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-241-electronic-trading/",
+      "sections": 1,
+      "bytes": 66694
+    },
+    {
+      "rg_number": "242",
+      "title": "RG 242 ASIC’s power to wind up abandoned companies",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-242-asic-s-power-to-wind-up-abandoned-companies/",
+      "sections": 1,
+      "bytes": 66656
+    },
+    {
+      "rg_number": "243",
+      "title": "RG 243 Registration of self-managed superannuation fund auditors",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-243-registration-of-self-managed-superannuation-fund-auditors/",
+      "sections": 2,
+      "bytes": 66889
+    },
+    {
+      "rg_number": "244",
+      "title": "RG 244 Giving information, general advice and scaled advice",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-244-giving-information-general-advice-and-scaled-advice/",
+      "sections": 1,
+      "bytes": 67154
+    },
+    {
+      "rg_number": "245",
+      "title": "RG 245 Fee disclosure statements (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-245-fee-disclosure-statements-withdrawn/",
+      "sections": 1,
+      "bytes": 66056
+    },
+    {
+      "rg_number": "246",
+      "title": "RG 246 Conflicted and other banned remuneration",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-246-conflicted-and-other-banned-remuneration/",
+      "sections": 1,
+      "bytes": 66832
+    },
+    {
+      "rg_number": "247",
+      "title": "RG 247 Effective disclosure in an operating and financial review",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-247-effective-disclosure-in-an-operating-and-financial-review/",
+      "sections": 1,
+      "bytes": 66355
+    },
+    {
+      "rg_number": "248",
+      "title": "RG 248 Litigation schemes and proof of debt schemes: Managing conflicts of interest",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-248-litigation-schemes-and-proof-of-debt-schemes-managing-conflicts-of-interest/",
+      "sections": 1,
+      "bytes": 66584
+    },
+    {
+      "rg_number": "249",
+      "title": "RG 249 Derivative trade repositories",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-249-derivative-trade-repositories/",
+      "sections": 1,
+      "bytes": 67342
+    },
+    {
+      "rg_number": "250",
+      "title": "RG 250 Guidance on ASIC market integrity rules for risk management and other requirements: ASX 24 market (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-250-guidance-on-asic-market-integrity-rules-for-risk-management-and-other-requirements-asx-24-market-withdrawn/",
+      "sections": 1,
+      "bytes": 66501
+    },
+    {
+      "rg_number": "251",
+      "title": "RG 251 Derivative transaction reporting",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-251-derivative-transaction-reporting/",
+      "sections": 1,
+      "bytes": 66546
+    },
+    {
+      "rg_number": "252",
+      "title": "RG 252 Keeping superannuation websites up to date (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-252-keeping-superannuation-websites-up-to-date-withdrawn/",
+      "sections": 1,
+      "bytes": 66880
+    },
+    {
+      "rg_number": "253",
+      "title": "RG 253 Fundraising: Facilitating offers of CHESS Depository Interests",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-253-fundraising-facilitating-offers-of-chess-depository-interests/",
+      "sections": 1,
+      "bytes": 67087
+    },
+    {
+      "rg_number": "254",
+      "title": "RG 254 Offering securities under a disclosure document",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-254-offering-securities-under-a-disclosure-document/",
+      "sections": 1,
+      "bytes": 67249
+    },
+    {
+      "rg_number": "255",
+      "title": "RG 255 Providing digital financial product advice to retail clients",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-255-providing-digital-financial-product-advice-to-retail-clients/",
+      "sections": 1,
+      "bytes": 66794
+    },
+    {
+      "rg_number": "256",
+      "title": "RG 256 Client review and remediation conducted by advice licensees",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-256-client-review-and-remediation-conducted-by-advice-licensees/",
+      "sections": 1,
+      "bytes": 67266
+    },
+    {
+      "rg_number": "257",
+      "title": "RG 257 Testing fintech products and services without holding an AFS or credit licence (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-257-testing-fintech-products-and-services-without-holding-an-afs-or-credit-licence-withdrawn/",
+      "sections": 1,
+      "bytes": 66423
+    },
+    {
+      "rg_number": "258",
+      "title": "RG 258 Registered liquidators: Registration, ongoing obligations, disciplinary actions and insurance requirements",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-258-registered-liquidators-registration-ongoing-obligations-disciplinary-actions-and-insurance-requirements/",
+      "sections": 2,
+      "bytes": 68303
+    },
+    {
+      "rg_number": "259",
+      "title": "RG 259 Risk management systems of fund operators",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-259-risk-management-systems-of-fund-operators/",
+      "sections": 1,
+      "bytes": 66311
+    },
+    {
+      "rg_number": "260",
+      "title": "RG 260 Communicating findings from audit files to directors, audit committees or senior managers",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-260-communicating-findings-from-audit-files-to-directors-audit-committees-or-senior-managers/",
+      "sections": 1,
+      "bytes": 67069
+    },
+    {
+      "rg_number": "261",
+      "title": "RG 261 Crowd-sourced funding: Guide for companies",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-261-crowd-sourced-funding-guide-for-companies/",
+      "sections": 1,
+      "bytes": 66900
+    },
+    {
+      "rg_number": "262",
+      "title": "RG 262 Crowd-sourced funding: Guide for intermediaries",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-262-crowd-sourced-funding-guide-for-intermediaries/",
+      "sections": 1,
+      "bytes": 67085
+    },
+    {
+      "rg_number": "263",
+      "title": "RG 263 Financial Services and Credit Panel",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-263-financial-services-and-credit-panel/",
+      "sections": 1,
+      "bytes": 66273
+    },
+    {
+      "rg_number": "264",
+      "title": "RG 264 Sell-side research",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-264-sell-side-research/",
+      "sections": 3,
+      "bytes": 66618
+    },
+    {
+      "rg_number": "265",
+      "title": "RG 265 Guidance on ASIC market integrity rules for participants of securities markets",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-265-guidance-on-asic-market-integrity-rules-for-participants-of-securities-markets/",
+      "sections": 1,
+      "bytes": 66642
+    },
+    {
+      "rg_number": "266",
+      "title": "RG 266 Guidance on ASIC market integrity rules for participants of futures markets",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-266-guidance-on-asic-market-integrity-rules-for-participants-of-futures-markets/",
+      "sections": 1,
+      "bytes": 66634
+    },
+    {
+      "rg_number": "267",
+      "title": "RG 267 Oversight of the Australian Financial Complaints Authority",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-267-oversight-of-the-australian-financial-complaints-authority/",
+      "sections": 1,
+      "bytes": 66892
+    },
+    {
+      "rg_number": "268",
+      "title": "RG 268 Licensing regime for financial benchmark administrators",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-268-licensing-regime-for-financial-benchmark-administrators/",
+      "sections": 1,
+      "bytes": 67589
+    },
+    {
+      "rg_number": "269",
+      "title": "RG 269 Approval and oversight of compliance schemes for financial advisers (withdrawn)",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-269-approval-and-oversight-of-compliance-schemes-for-financial-advisers-withdrawn/",
+      "sections": 1,
+      "bytes": 65935
+    },
+    {
+      "rg_number": "270",
+      "title": "RG 270 Whistleblower policies",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-270-whistleblower-policies/",
+      "sections": 1,
+      "bytes": 66807
+    },
+    {
+      "rg_number": "271",
+      "title": "RG 271 Internal dispute resolution",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-271-internal-dispute-resolution/",
+      "sections": 2,
+      "bytes": 68813
+    },
+    {
+      "rg_number": "272",
+      "title": "RG 272 Product intervention power",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-272-product-intervention-power/",
+      "sections": 1,
+      "bytes": 66456
+    },
+    {
+      "rg_number": "273",
+      "title": "RG 273 Mortgage brokers: Best interests duty",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-273-mortgage-brokers-best-interests-duty/",
+      "sections": 2,
+      "bytes": 66981
+    },
+    {
+      "rg_number": "274",
+      "title": "RG 274 Product design and distribution obligations",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-274-product-design-and-distribution-obligations/",
+      "sections": 3,
+      "bytes": 68863
+    },
+    {
+      "rg_number": "275",
+      "title": "RG 275 The deferred sales model for add-on insurance",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-275-the-deferred-sales-model-for-add-on-insurance/",
+      "sections": 3,
+      "bytes": 68077
+    },
+    {
+      "rg_number": "276",
+      "title": "RG 276 Superannuation forecasts: Calculators and retirement estimates",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-276-superannuation-forecasts-calculators-and-retirement-estimates/",
+      "sections": 1,
+      "bytes": 67127
+    },
+    {
+      "rg_number": "277",
+      "title": "RG 277 Consumer remediation",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-277-consumer-remediation/",
+      "sections": 1,
+      "bytes": 67323
+    },
+    {
+      "rg_number": "278",
+      "title": "RG 278 ADIs: Transitioning to the Financial Accountability Regime",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-278-adis-transitioning-to-the-financial-accountability-regime/",
+      "sections": 1,
+      "bytes": 66697
+    },
+    {
+      "rg_number": "279",
+      "title": "RG 279 Financial Accountability Regime: Information for accountable entities",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-279-financial-accountability-regime-information-for-accountable-entities/",
+      "sections": 1,
+      "bytes": 66679
+    },
+    {
+      "rg_number": "280",
+      "title": "RG 280 Sustainability reporting",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-280-sustainability-reporting/",
+      "sections": 1,
+      "bytes": 67442
+    },
+    {
+      "rg_number": "281",
+      "title": "RG 281 Low cost credit contracts",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-281-low-cost-credit-contracts/",
+      "sections": 1,
+      "bytes": 66540
+    },
+    {
+      "rg_number": "282",
+      "title": "RG 282 Exchange traded products",
+      "url": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-282-exchange-traded-products/",
+      "sections": 1,
+      "bytes": 66664
+    }
+  ]
+}
