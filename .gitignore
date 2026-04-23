@@ -205,3 +205,28 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- aus-reg-bench research additions ---
+
+# Jupyter checkpoint directories (with trailing slash)
+.ipynb_checkpoints/
+
+# macOS Finder metadata
+.DS_Store
+
+# Log files (also covered in Django section above; repeated here for clarity)
+*.log
+
+# Environment files with secrets (also covered in Environments section above)
+.env
+
+# Corpus build outputs — regulatory text is not redistributed
+data/raw/
+
+# Raw evaluation logs — reproducible from harness; published snapshots are released separately
+results/raw/*.json
+!results/raw/.gitkeep
+
+# API keys — uncomment if you keep a separate secrets file
+# .secrets
+

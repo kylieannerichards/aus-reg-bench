@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite it as below."
+title: "aus-reg-bench: An empirical benchmark for Australian financial regulatory reasoning"
+version: 0.1.0
+date-released: 2026-04-23
+authors:
+  - family-names: Richards
+    given-names: Kylie-Anne
+    affiliation: "UTS Business School, University of Technology Sydney"
+repository-code: "https://github.com/kylieannerichards/aus-reg-bench"
+license: MIT
+type: software
+keywords:
+  - AI evaluation
+  - large language models
+  - Australian financial regulation
+  - benchmark
+  - APRA
+  - ASIC
+  - AASB
