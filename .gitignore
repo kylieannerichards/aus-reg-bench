@@ -222,6 +222,11 @@ __marimo__/
 
 # Corpus build outputs — regulatory text is not redistributed
 data/raw/
+corpus/sources/aasb/s2.json
+corpus/sources/aasb/*.pdf
+corpus/sources/asic/rg_*.json
+corpus/sources/asic/*.html
+corpus/sources/asic/*.pdf
 
 # Raw evaluation logs — reproducible from harness; published snapshots are released separately
 results/raw/*.json
