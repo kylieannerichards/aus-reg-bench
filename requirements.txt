@@ -1,4 +1,6 @@
 anthropic
+openai
+google-generativeai
 pandas
 numpy
 scipy
